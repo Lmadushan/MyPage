@@ -1,6 +1,6 @@
 /* Place the navbar at the bottom of the page, and make it stick */
 .navbar {
-    background-color: transparent;
+    background-color: white;
     overflow: hidden;
     position: fixed;
     width: 100%;
